@@ -1,0 +1,29 @@
+{
+  "name": "skaylic/yandex-weather-php",
+  "description": "",
+  "keywords": ["yandex", "weather", "php"],
+  "homepage": "https://github.com/Skaylic/yandex-weather-php",
+  "type": "library",
+  "license": "MIT",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "skaylic",
+      "email": "info@skaylic.ru",
+      "homepage": "https://skaylic.ru"
+    },
+    {
+      "name": "skaylic",
+      "homepage": "https://github.com/Skaylic"
+    }
+  ],
+  "require": {
+    "curl/curl": "^2.2",
+    "symfony/var-dumper": "^5.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "Skay\\": "src/"
+    }
+  }
+}
