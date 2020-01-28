@@ -1,8 +1,8 @@
 {
-  "name": "skaylic/yandex-weather-php",
+  "name": "skaylic/yandex-translate-php",
   "description": "",
-  "keywords": ["yandex", "weather", "php"],
-  "homepage": "https://github.com/Skaylic/yandex-weather-php",
+  "keywords": ["yandex", "translate", "php"],
+  "homepage": "https://github.com/Skaylic/yandex-translate-php",
   "type": "library",
   "license": "MIT",
   "version": "1.0.0",
